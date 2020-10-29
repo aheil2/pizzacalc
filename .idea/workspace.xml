@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dd74ee4-82cd-4744-ac95-362010645299" name="Default Changelist" comment="">
+    <list default="true" id="5dd74ee4-82cd-4744-ac95-362010645299" name="Default Changelist" comment="jQuery update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -32,7 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../latefeecalc" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,14 +62,41 @@
       <option name="presentableId" value="Default" />
       <updated>1603760940496</updated>
       <workItem from="1603760941540" duration="1609000" />
-      <workItem from="1603933138539" duration="2519000" />
+      <workItem from="1603933138539" duration="3822000" />
     </task>
+    <task id="LOCAL-00001" summary="jQuery update">
+      <created>1603935793926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603935793926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jQuery update" />
+    <option name="LAST_COMMIT_MESSAGE" value="jQuery update" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603936331967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-387.1080.1880@0.0.1920.1040" timestamp="1603936331967" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1603762870599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -60,9 +105,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1080.-387.1080.1880@0.0.1920.1040" timestamp="1603762875798" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603762885173">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603935799199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1080.-387.1080.1880@0.0.1920.1040" timestamp="1603762885173" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1080.-387.1080.1880@0.0.1920.1040" timestamp="1603935799199" />
   </component>
 </project>
